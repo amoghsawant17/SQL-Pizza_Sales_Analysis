@@ -8,13 +8,13 @@ As part of a pizza chain's business analysis, we aim to analyze sales data to ga
 This project involves analyzing a pizza sales dataset using SQL. The dataset comprises four main tables: orders, order_details, pizzas, and pizza_types. The primary objective is to extract valuable information regarding order patterns, revenue generation, popular pizza types, and more. This analysis will support key decision-making processes for the pizza chain.
 
 ## Presentation:
-- _[Presentation]()_
+- _[Presentation](https://github.com/amoghsawant17/SQL-Pizza_Sales_Analysis/blob/main/Pizza_Sales_SQL_Project.pdf)_
 
 ## Data Description
-Orders: Contains information about each order placed, including the order ID, date, and time.
-Order_Details: Contains details about each pizza ordered, including the order ID, pizza ID, quantity, and price.
-Pizzas: Contains information about each pizza, including the pizza ID, type, size, and price.
-Pizza_Types: Contains information about different types of pizzas, including the type ID and category.
+- Orders: Contains information about each order placed, including the order ID, date, and time.
+- Order_Details: Contains details about each pizza ordered, including the order ID, pizza ID, quantity, and price.
+- Pizzas: Contains information about each pizza, including the pizza ID, type, size, and price.
+- Pizza_Types: Contains information about different types of pizzas, including the type ID and category.
 
 ## Key Insights
 - Total Orders Placed: 21,350 orders
